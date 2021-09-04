@@ -1,0 +1,62 @@
+2021-08-16 22:21:02.000  INFO 7660 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : Starting CursoSpringApplication on DESKTOP-NRUCDJG with PID 7660 (E:\WorkspaceSpring_boot\CursoSpring\target\classes started by DELL MX in E:\WorkspaceSpring_boot\CursoSpring)
+2021-08-16 22:21:02.000  INFO 7660 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : No active profile set, falling back to default profiles: default
+2021-08-16 22:21:02.334  INFO 7660 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2021-08-16 22:21:02.336  INFO 7660 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-08-16 22:21:02.336  INFO 7660 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-08-16 22:21:02.372  INFO 7660 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-08-16 22:21:02.372  INFO 7660 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 367 ms
+2021-08-16 22:21:02.489  INFO 7660 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-16 22:21:02.511  INFO 7660 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-08-16 22:21:02.567  INFO 7660 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-08-16 22:21:02.591  INFO 7660 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2021-08-16 22:21:02.592  INFO 7660 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : Started CursoSpringApplication in 0.638 seconds (JVM running for 3566.155)
+2021-08-16 22:21:02.594  INFO 7660 --- [restartedMain] c.b.core.services.impl.PostServiceImpl   : Servicio 1
+2021-08-16 22:21:02.597  INFO 7660 --- [restartedMain] c.b.c.services.impl.PostServiceImplDos   : Servicio 2
+2021-08-16 22:21:02.598  INFO 7660 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$3f0e6a64 : Desarrollo web
+2021-08-16 22:21:02.599  INFO 7660 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$3f0e6a64 : Desarrollo web Front-End
+2021-08-16 22:21:02.600  INFO 7660 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$3f0e6a64 : Desarrollo web Back-End
+2021-08-16 22:21:02.600  INFO 7660 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$3f0e6a64 : Desarrollo web UX/UI
+2021-08-16 22:21:02.602  INFO 7660 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-08-16 22:21:13.590  INFO 7660 --- [RMI TCP Connection(71)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-08-16 22:21:13.593  INFO 7660 --- [RMI TCP Connection(71)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-08-16 22:21:20.717  INFO 10668 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : Starting CursoSpringApplication on DESKTOP-NRUCDJG with PID 10668 (E:\WorkspaceSpring_boot\CursoSpring\target\classes started by DELL MX in E:\WorkspaceSpring_boot\CursoSpring)
+2021-08-16 22:21:20.740  INFO 10668 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : No active profile set, falling back to default profiles: default
+2021-08-16 22:21:20.854  INFO 10668 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-16 22:21:20.855  INFO 10668 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-16 22:21:22.699  INFO 10668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2021-08-16 22:21:22.717  INFO 10668 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-08-16 22:21:22.717  INFO 10668 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-08-16 22:21:22.905  INFO 10668 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-08-16 22:21:22.906  INFO 10668 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2050 ms
+2021-08-16 22:21:23.406  INFO 10668 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-16 22:21:23.580  INFO 10668 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-08-16 22:21:23.855  INFO 10668 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-08-16 22:21:23.938  INFO 10668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2021-08-16 22:21:23.947  INFO 10668 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : Started CursoSpringApplication in 3.85 seconds (JVM running for 5.41)
+2021-08-16 22:21:23.950  INFO 10668 --- [restartedMain] c.b.core.services.impl.PostServiceImpl   : Servicio 1
+2021-08-16 22:21:23.951  INFO 10668 --- [restartedMain] c.b.c.services.impl.PostServiceImplDos   : Servicio 2
+2021-08-16 22:21:23.952  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web
+2021-08-16 22:21:23.953  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web Front-End
+2021-08-16 22:21:23.953  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web Back-End
+2021-08-16 22:21:23.953  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web UX/UI
+2021-08-16 22:30:52.914  INFO 10668 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-08-16 22:30:53.101  INFO 10668 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : Starting CursoSpringApplication on DESKTOP-NRUCDJG with PID 10668 (E:\WorkspaceSpring_boot\CursoSpring\target\classes started by DELL MX in E:\WorkspaceSpring_boot\CursoSpring)
+2021-08-16 22:30:53.102  INFO 10668 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : No active profile set, falling back to default profiles: default
+2021-08-16 22:30:53.481  INFO 10668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2021-08-16 22:30:53.482  INFO 10668 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-08-16 22:30:53.483  INFO 10668 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-08-16 22:30:53.516  INFO 10668 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-08-16 22:30:53.516  INFO 10668 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 408 ms
+2021-08-16 22:30:53.648  INFO 10668 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-16 22:30:53.673  INFO 10668 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-08-16 22:30:53.734  INFO 10668 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-08-16 22:30:53.773  INFO 10668 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2021-08-16 22:30:53.777  INFO 10668 --- [restartedMain] c.bytecode.core.CursoSpringApplication   : Started CursoSpringApplication in 0.732 seconds (JVM running for 575.239)
+2021-08-16 22:30:53.779  INFO 10668 --- [restartedMain] c.b.core.services.impl.PostServiceImpl   : Servicio 1
+2021-08-16 22:30:53.783  INFO 10668 --- [restartedMain] c.b.c.services.impl.PostServiceImplDos   : Servicio 2
+2021-08-16 22:30:53.789  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web
+2021-08-16 22:30:53.789  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web Front-End
+2021-08-16 22:30:53.792  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web Back-End
+2021-08-16 22:30:53.793  INFO 10668 --- [restartedMain] ication$$EnhancerBySpringCGLIB$$79942238 : Desarrollo web UX/UI
+2021-08-16 22:30:53.797  INFO 10668 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-08-16 22:31:05.516  INFO 10668 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
